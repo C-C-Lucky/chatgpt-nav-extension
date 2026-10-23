@@ -11,13 +11,11 @@
 - **动态更新**：新消息发送或流式输出时，导航目录自动增量更新，不会打断当前操作。
 - **深色 / 浅色主题自适应**。
 
-## 📸 截图
+## 收起状态
+<img width="2560" height="1346" alt="image" src="https://github.com/user-attachments/assets/cf602990-46dd-44c2-b992-436266c0b751" />
 
-> 建议上传 2–3 张截图到仓库，然后替换下面的链接。例如：
-> 
-> ![收起状态](screenshots/collapsed.png)
-> ![展开状态](screenshots/expanded.png)
-> ![嵌套目录](screenshots/nested.png)
+## 展开状态
+<img width="2560" height="1346" alt="image" src="https://github.com/user-attachments/assets/514a427f-89cf-4d23-9a4e-d66de2464acc" />
 
 ## 🚀 安装方法
 
@@ -40,6 +38,5 @@
 
 ## 🛠️ 开发与贡献
 
-欢迎提交 Issue 和 Pull Request。
+使用deepseek写的代码，欢迎提交 Issue 和 Pull Request。
 
-**项目结构：**
