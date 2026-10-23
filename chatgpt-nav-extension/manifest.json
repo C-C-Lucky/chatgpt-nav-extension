@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT 对话导航",
+  "version": "1.0.0",
+  "description": "为 ChatGPT 生成类似 DeepSeek 的右侧悬停展开对话导航，支持提问与回答标题的嵌套目录。",
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*", "https://chat.openai.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
